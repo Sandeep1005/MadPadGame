@@ -1,4 +1,10 @@
 # MadPadGame
-Game rules can be found in the help section in the game
+Game rules can also be found in the help section in the game
 </br>
-arrow keys are used to control the pad
+Run the MadPad.exe file
+</br>
+The ball needs to be kept in the restricted area. If it comes out, game is lost
+</br>
+Arrow keys are used to control the pad position
+</br>
+Ball keeps changing the direction of its velocity every 5 seconds. So, watchout..
