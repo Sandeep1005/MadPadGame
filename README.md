@@ -9,3 +9,6 @@ This game is made using Godot game engine
   Ball keeps changing the direction of its velocity every 5 seconds. So, watchout.. have fun
  
   </p>
+  <p>
+  Download madPad.pck along with madPad.exe to avoid errors.
+  </p>
